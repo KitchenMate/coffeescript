@@ -20,8 +20,8 @@
   "module": "./lib/coffeescript-browser-compiler-modern/coffeescript.js",
   "browser": "./lib/coffeescript-browser-compiler-legacy/coffeescript.js",
   "bin": {
-    "coffee2": "./bin/coffee",
-    "cake2": "./bin/cake"
+    "coffee2": "./bin/coffee2",
+    "cake2": "./bin/cake2"
   },
   "files": [
     "bin",
