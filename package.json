@@ -19,8 +19,8 @@
   "main": "./lib/coffeescript/index",
   "browser": "./lib/coffeescript/browser",
   "bin": {
-    "coffee2": "./bin/coffee",
-    "cake2": "./bin/cake"
+    "coffee2": "./bin/coffee2",
+    "cake2": "./bin/cake2"
   },
   "files": [
     "bin",
